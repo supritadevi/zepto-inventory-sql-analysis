@@ -8,8 +8,7 @@ The objective is to identify inventory risks and pricing inefficiencies that can
 ---
 
 ## Dataset
-- Source: Kaggle – Zepto Inventory Dataset
-- Snapshot-based inventory data
+- Source: Kaggle – Zepto Inventory Dataset - https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data
 - Includes product category, MRP, discounts, stock availability, and product weight
 
 ---
@@ -38,11 +37,6 @@ The objective is to identify inventory risks and pricing inefficiencies that can
 
 ---
 
-## Assumptions & Limitations
-- Single snapshot of inventory data
-- No demand or sales data available
-- Quantity treated as a proxy for availability
-- Discounts may involve rounding or promotional rules
 
 ---
 
